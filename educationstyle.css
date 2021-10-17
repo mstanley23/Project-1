@@ -1,0 +1,63 @@
+.fit-picture{
+
+    margin: 35px;
+}
+
+body{
+
+    background-color:rgb(214, 228, 241);
+
+    
+}
+
+div{
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    
+}
+
+.risediv{
+    
+    border: 20px groove rgb(202, 160, 22);
+
+    color: black;
+
+    background-color: rgb(247, 246, 211);
+
+    margin: 20px;
+
+    padding: 20px;
+
+
+
+
+}
+
+.bgcdiv{
+    
+    border: 20px groove rgb(175, 102, 7);
+
+    color:black;
+
+    background-color: rgb(247, 246, 211);
+
+    margin: 20px;
+
+    padding: 20px;
+
+}
+
+.vecfdiv{
+
+    border: 20px groove rgb(160, 48, 48);
+
+    color:black;
+
+    background-color: rgb(247, 246, 211);
+
+    margin: 20px;
+
+    padding: 20px;
+
+}

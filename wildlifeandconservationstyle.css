@@ -1,0 +1,65 @@
+
+.fit-picture{
+
+    margin: 35px;
+}
+
+div{
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.wctitlediv{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+
+}
+
+body{
+
+    background-color:rgb(214, 228, 241);
+
+    
+}
+
+.pbidiv{
+
+    border: 20px groove cadetblue;
+
+    color:black;
+
+    margin: 20px;
+
+    padding: 20px;
+
+    background-color: rgb(214, 247, 211);
+
+}
+
+.wwfdiv{
+
+    border: 20px groove rgb(85, 156, 91);
+
+    color:black;
+
+    margin: 20px;
+
+    padding: 20px;
+
+    background-color: rgb(214, 247, 211);
+
+}
+
+.vcndiv{
+
+    border: 20px groove rgb(99, 95, 160);
+
+    color:black;
+
+    margin: 20px;
+
+    padding: 20px;
+
+    background-color: rgb(214, 247, 211);
+
+}
